@@ -76,7 +76,7 @@ Do not assume that the strongest algorithm is automatically the best option.
 
 Measure both the resulting size and application behavior.
 
-![CompactGUI compression mode selection](core/photo2.jpg)
+![CompactGUI compression mode selection](Core/photo2.jpg)
 
 ## Compression Workflow
 
@@ -155,7 +155,7 @@ Review watched folders after major application updates.
 
 An update may replace compressed files or introduce data that should be excluded.
 
-![CompactGUI watched folders and results](core/photo3.png)
+![CompactGUI watched folders and results](Core/photo3.png)
 
 ## Settings and Explorer Integration
 
