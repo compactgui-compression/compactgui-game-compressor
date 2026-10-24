@@ -10,7 +10,7 @@ Files remain available to Windows and compatible applications in their original 
 
 CompactGUI uses compression facilities already provided by Windows, including the Windows Overlay Filter and supported XPRESS or LZX algorithms.
 
-![CompactGUI folder compression interface](core/photo1.jpg)
+![CompactGUI folder compression interface](Core/photo1.jpg)
 
 ## How It Works
 
